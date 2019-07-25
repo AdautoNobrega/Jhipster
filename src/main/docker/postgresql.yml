@@ -1,0 +1,11 @@
+version: '2'
+services:
+  finance-postgresql:
+    image: postgres:11.3
+    # volumes:
+    #     - ~/volumes/jhipster/finance/postgresql/:/var/lib/postgresql/data/
+    environment:
+      - POSTGRES_USER=finance
+      - POSTGRES_PASSWORD=
+    ports:
+      - 5432:5432
