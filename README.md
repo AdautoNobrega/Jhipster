@@ -97,3 +97,6 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [running tests page]: https://www.jhipster.tech/documentation-archive/v6.1.2/running-tests/
 [code quality page]: https://www.jhipster.tech/documentation-archive/v6.1.2/code-quality/
 [setting up continuous integration]: https://www.jhipster.tech/documentation-archive/v6.1.2/setting-up-ci/
+=======
+# Jhipster
+
